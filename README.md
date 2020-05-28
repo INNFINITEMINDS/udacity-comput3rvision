@@ -4,7 +4,7 @@ This repository contains my project submissions in order to complete and graduat
 Feel free to explore.
 
 <p align="center">
-  <img width="700" height="500" src="https://github.com/INNFINITEMINDS/udacity--computervision-projects/blob/master/images/cvnd.svg">
+  <img width="700" height="500" src="https://github.com/INNFINITEMINDS/udacity-comput3rvision/blob/master/images/cvnd.svg">
 </p>
 
 <hr>
